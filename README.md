@@ -64,7 +64,7 @@ $ python3 test_segmentation.py
 
 ## Prediction
 
-To obtain some visual resluts for both models run:
+To obtain some visual results for both models run:
 
 ```
 $ python3 predict_detection.py

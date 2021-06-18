@@ -21,6 +21,8 @@ BraTS dataset for segmentation is avaliable [here](https://www.oasis-brains.org)
 * os
 * warnings
 
+3. Check the python version: python 3.9
+
 ## Preprocsessing
 
 For detection run the following:

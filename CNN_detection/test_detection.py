@@ -11,7 +11,8 @@ warnings.filterwarnings("ignore")
 This file contains implementation of functions for:
     - evaluation of the detection model
     - calculate performance metrics
-    
+
+Reference: https://github.com/YuanningEric/Medical_Image_Diagnosis 
 """
 
 def evaluate_cnn_model():

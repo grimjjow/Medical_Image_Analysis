@@ -9,6 +9,14 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 warnings.simplefilter("ignore")
 
+"""
+
+This file contains implementation of function for:
+    - model setup
+    
+Reference: https://github.com/trankhavy/capstone_segmentation
+"""
+
 def build_2dunet_model(inputs, ker_init, dropout):
 
     """
